@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Baldakijn',
-  description: 'Baldakijn is een webshop voor handgemaakte producten.',
+  description: 'An Antwerp-based local business. Crafting home textiles for your spaces.',
 }
 
 export default function RootLayout({ children }) {
