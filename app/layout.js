@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Baldakijn',
   description: 'An Antwerp-based local business. Crafting home textiles for your spaces.',
+  themeColor: '#000068',
 }
 
 export default function RootLayout({ children }) {
